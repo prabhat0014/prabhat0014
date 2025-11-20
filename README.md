@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sai Prabhat
+- 👋 Hi, I’m Sai Prabhat Peddi
 - 👀 I’m interested in ML projects
-- 🌱 I’m currently doing B.Tech
+- 🌱 I’m currently pursuing MS in Computer Science
 - 📫 You can reach me at saiprabhatpeddi@gmail.com
 
 <!---
